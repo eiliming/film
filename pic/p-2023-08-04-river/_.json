@@ -1,0 +1,17 @@
+{
+  "title":"河流",
+  "author":"slim",
+  "date":"2023-08-04",
+  "address":"甘肃、文县",
+  "films":[
+    {
+      "file":"_DSC2349",
+      "size":[5746,3670],
+      "camera": "SONY-ILCE-7C",
+      "lens": "SIMA 100-400 F5-6.3",
+      "mm": 100,
+      "f": 9,
+      "s": "1/160"
+    }
+  ]
+}
